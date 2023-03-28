@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### Estadisticas🥱
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trippxzz&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zAlvaro199x&show_icons=true&theme=dark)
