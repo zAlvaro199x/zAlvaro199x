@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 ### Estadisticas🥱
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zAlvaro199x&show_icons=true&theme=radical)
+-->
+
+
 
 
 
